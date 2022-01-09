@@ -1,0 +1,18 @@
+#one{
+    font-family: verdana;
+}
+#two{
+    font-size: 30px;
+}
+#three{
+    font-stretch: expanded;
+}
+#four{
+    font-style: italic;
+}
+#five{
+    font-variant: small-caps;
+}
+#six{
+    font-weight: 300;
+}
